@@ -186,6 +186,12 @@ namespace WachtrijApp
                 return "In onderhoud";
             }
 
+            return "";
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
